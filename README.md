@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### <center>Hi there 👋, my name is Bruno Bonavigo!</center>
+- 🔭 I’m currently working on <b>HTML, CSS, JS and PHP</b>.
+- 📫 How to reach me: <b>b.bonavigo@gmail.com</b>.
+- 💬 Ask me about <b>JS and PHP</b>.
 <!--
 **Bonavigo/Bonavigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
