@@ -2,6 +2,11 @@
 - 🔭 I’m currently working on <b>HTML, CSS, JS and PHP</b>.
 - 📫 How to reach me: <b>b.bonavigo@gmail.com</b>.
 - 💬 Ask me about <b>JS and PHP</b>.
+<hr>
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png">
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 <!--
 **Bonavigo/Bonavigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
