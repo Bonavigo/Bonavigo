@@ -1,7 +1,7 @@
 ### <center>Hi there 👋, my name is Bruno Bonavigo!</center>
-<p>- 🔭 I’m currently working on <b>HTML, CSS, JS and PHP</b>.</p>
-<p>- 📫 How to reach me: <b>b.bonavigo@gmail.com</b>.</p>
-<p>- 💬 Ask me about <b>JS and PHP</b>.</p>
+<span>- 🔭 I’m currently working on <b>HTML, CSS, JS and PHP</b>.</span>
+<span>- 📫 How to reach me: <b>b.bonavigo@gmail.com</b>.</span>
+<span>- 💬 Ask me about <b>JS and PHP</b>.</span>
 <hr>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a>
