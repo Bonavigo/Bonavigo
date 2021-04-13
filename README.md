@@ -1,5 +1,5 @@
 <h1>Hi there 👋, my name is Bruno Bonavigo!</h1>
-<p style="margin:0;">- 🔭 I’m currently working on <b>HTML, CSS, JS, PHP and C#.</b>.</p>
+<p style="margin:0;">- 🔭 I’m currently working on <b>HTML, CSS, JS, PHP and C#</b>.</p>
 <p style="margin:0;">- 📫 How to reach me: <b>b.bonavigo@gmail.com</b>.</p>
 <p style="margin:0;">- 💬 Ask me about <b>JS and PHP</b>.</p>
 <hr>
