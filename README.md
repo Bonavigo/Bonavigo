@@ -1,5 +1,5 @@
 <h1>Hi there 👋, my name is Bruno Bonavigo!</h1>
-<p style="margin:0;">- 🔭 I’m currently working on <b>HTML, CSS, JS and PHP</b>.</p>
+<p style="margin:0;">- 🔭 I’m currently working on <b>HTML, CSS, JS, PHP and C#.</b>.</p>
 <p style="margin:0;">- 📫 How to reach me: <b>b.bonavigo@gmail.com</b>.</p>
 <p style="margin:0;">- 💬 Ask me about <b>JS and PHP</b>.</p>
 <hr>
@@ -10,7 +10,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"><img height="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;"></a>
-
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="max-width:100%;"></a>
 
 <!--
 **Bonavigo/Bonavigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
