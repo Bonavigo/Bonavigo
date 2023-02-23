@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://bonavigo.github.io/](https://bonavigo.github.io/)
 
-- 📝 I regularly write articles on [https://bonavigo.medium.com/](https://bonavigo.medium.com/)
-
 - 💬 Ask me about **JS and PHP**
 
 - 📫 How to reach me **b.bonavigo@gmail.com**
