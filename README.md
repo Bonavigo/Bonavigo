@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bruno!</h1>
 <h3 align="center">A developer from Brazil, São Paulo</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bonavigo&label=Profile%20views&color=0e75b6&style=flat" alt="bonavigo" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonavigo" alt="bonavigo" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://bonavigo.github.io/](https://bonavigo.github.io/)
 
 - 💬 Ask me about **JS and PHP**
@@ -8,10 +12,6 @@
 - 📫 How to reach me **b.bonavigo@gmail.com**
 
 - ⚡ Fun fact **I'm italian brazilian and catholic**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bonavigo&label=Profile%20views&color=0e75b6&style=flat" alt="bonavigo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonavigo" alt="bonavigo" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
