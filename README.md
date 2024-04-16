@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **b.bonavigo@gmail.com**
 
-- ⚡ Fun fact **I'm italian brazilian and catholic**
+- ⚡ Fun fact **I like baroque music**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonavigo&label=Profile%20views&color=0e75b6&style=flat" alt="bonavigo" /> </p>
