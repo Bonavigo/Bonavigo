@@ -4,7 +4,7 @@
 
 Welcome to my profile! I'm Bruno, a student of Computer Science. I live in São Paulo, Brazil. I like music, specially barroque, and studying history. Amogst my favourite composers are Vivaldi, Bach, Handel and Lobo de Mesquita, and my favourite historical subject is colonial São Paulo.
 
-### My social media and contact:
+### Minhas redes sociais e contatos:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bonavigo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bonavigo-dacal/)
@@ -32,13 +32,13 @@ Welcome to my profile! I'm Bruno, a student of Computer Science. I live in São 
 
 ### Main repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=rosario&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=fuxicador&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=BonavigosHabboLauncher&theme=dark&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=velhificador&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=player_radiobr&theme=dark&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=EasyAJAX&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=fundacao-sao-luis&theme=dark&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=archivo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=rosario&theme=dark)](https://github.com/Bonavigo/rosario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=fuxicador&theme=dark)](https://github.com/Bonavigo/fuxicador)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=BonavigosHabboLauncher&theme=dark&description_lines_count=2)](https://github.com/Bonavigo/BonavigosHabboLauncher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=velhificador&theme=dark)](https://github.com/Bonavigo/velhificador)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=player_radiobr&theme=dark&description_lines_count=2)](https://github.com/Bonavigo/player_radiobr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=EasyAJAX&theme=dark)](https://github.com/Bonavigo/EasyAJAX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=fundacao-sao-luis&theme=dark&description_lines_count=2)](https://github.com/Bonavigo/fundacao-sao-luis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=archivo&theme=dark)](https://github.com/Bonavigo/archivo)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bonavigo&label=Profile%20views&color=0e75b6&style=flat" alt="bonavigo" /></p>
