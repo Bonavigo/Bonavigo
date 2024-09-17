@@ -2,7 +2,7 @@
 
 <p align="center"><img align="center" src="https://i.imgur.com/tWXxION.png" width="95%" alt=""></p>
 
-Welcome to my profile! I'm Bruno, a student of Computer Science. I live in São Paulo, Brazil. I like music, specially barroque, and studying history. Amogst my favourite composers are Vivaldi, Bach, Handel and Lobo de Mesquita, and my favourite historical subject is colonial São Paulo.
+Welcome to my profile! I'm Bruno, a student of Computer Science. I live in São Paulo, Brazil. I like music, specially barroque, and studying history. Amongst my favourite composers are Vivaldi, Bach, Handel and Lobo de Mesquita, and my favourite historical subject is colonial São Paulo.
 
 ### Minhas redes sociais e contatos:
 
