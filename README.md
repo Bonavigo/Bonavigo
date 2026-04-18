@@ -32,12 +32,6 @@ Welcome to my profile! I'm Bruno, a student of Computer Science. I live in São 
 
 ### Main repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=rosario&theme=dark)](https://github.com/Bonavigo/rosario)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=fuxicador&theme=dark)](https://github.com/Bonavigo/fuxicador)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=BonavigosHabboLauncher&theme=dark&description_lines_count=2)](https://github.com/Bonavigo/BonavigosHabboLauncher)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=velhificador&theme=dark)](https://github.com/Bonavigo/velhificador)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=player_radiobr&theme=dark&description_lines_count=2)](https://github.com/Bonavigo/player_radiobr)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=EasyAJAX&theme=dark)](https://github.com/Bonavigo/EasyAJAX)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=fundacao-sao-luis&theme=dark&description_lines_count=2)](https://github.com/Bonavigo/fundacao-sao-luis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=archivo&theme=dark)](https://github.com/Bonavigo/archivo)
 
