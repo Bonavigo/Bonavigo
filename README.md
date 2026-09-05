@@ -1,38 +1,80 @@
-### Hello, I'm Bruno Bonavigo! 👋
+# Hello, I'm Bruno Bonavigo! 👋
 
-<p align="center"><img align="center" src="https://i.imgur.com/tWXxION.png" width="95%" alt=""></p>
+🎓 Computer Science student at Universidade Paulista  
+💻 Junior Back-End Developer  
+📍 São Paulo, Brazil
 
-Welcome to my profile! I'm Bruno, a student of Computer Science. I live in São Paulo, Brazil. I like music, specially barroque, and studying history. Amongst my favourite composers are Vivaldi, Bach, Handel and Lobo de Mesquita, and my favourite historical subject is colonial São Paulo.
+I'm a Computer Science student focused on **back-end and web development**. I enjoy building practical applications, working with databases, and turning ideas into functional software.
 
-### Minhas redes sociais e contatos:
+My main experience is with **PHP, MySQL, SQL and JavaScript**, with additional experience in **C# and Java**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bonavigo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bonavigo-dacal/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/1KzMOPD3z)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.bonavigo@gmail.com)
+## 🚀 Tech Stack
 
-### My statistics:
+### Back-End
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-![Bonavigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bonavigo&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bonavigo&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Technologies I know:
+### Tools & Other Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="display:inline-block;">
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-    <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-    <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-</div>
+---
 
-### Main repositories:
+## 📌 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=fundacao-sao-luis&theme=dark&description_lines_count=2)](https://github.com/Bonavigo/fundacao-sao-luis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonavigo&repo=archivo&theme=dark)](https://github.com/Bonavigo/archivo)
+### 📚 Compilador de Livros
+A Python desktop application for compiling and organizing books from PDF files.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bonavigo&label=Profile%20views&color=0e75b6&style=flat" alt="bonavigo" /></p>
+**Technologies:** Python · CustomTkinter · Tkinter · Pillow · PyPDF2
+
+[View repository →](https://github.com/Bonavigo/compilador-de-livros)
+
+### 🏠 Fuxicador
+A web application inspired by Habbo Homes, developed as a personal project.
+
+**Technologies:** PHP · MySQL · HTML · CSS · JavaScript
+
+[View repository →](https://github.com/Bonavigo)
+
+### 📖 Guia Interativo do Rosário
+An interactive web application containing prayers in Portuguese and Latin.
+
+**Technologies:** HTML · CSS · JavaScript
+
+[View repository →](https://github.com/Bonavigo/rosario)
+
+---
+
+## 🎯 Currently
+
+I'm looking for opportunities to grow as a **developer**, particularly in **back-end and web development**.
+
+I'm currently improving my knowledge of software development, databases, programming languages and application architecture through university studies and personal projects.
+
+---
+
+## 📊 GitHub Stats
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bonavigo&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bonavigo&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bonavigo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bonavigo-dacal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bonavigo.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.bonavigo@gmail.com)
+
+---
+
+<sub>Thanks for visiting my profile!</sub>
